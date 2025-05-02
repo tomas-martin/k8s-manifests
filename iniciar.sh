@@ -26,7 +26,7 @@ cat <<EOF > index.html
   </style>
 </head>
 <body>
-  <h1>Bienvenidos al Sitio Web de Tomás Martín</h1>
+  <h1>Bienvenidos al Sitio Web de Tomas Martin</h1>
   <p>Desplegado con Kubernetes y Docker en Minikube.</p>
 </body>
 </html>
